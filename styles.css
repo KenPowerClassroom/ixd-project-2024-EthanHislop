@@ -1,3 +1,7 @@
-h1 {
+.project-info {
   color: red;
+}
+
+body {
+  display: flex;
 }
