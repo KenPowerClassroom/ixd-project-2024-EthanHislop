@@ -3,17 +3,27 @@
 }
 
 .nav {
-  width: 12cm;
   font-size: 18px;
   text-align: center;
+  min-width: 150px;
   background-color: lightblue;
 }
 
 .main {
-  padding: 10px;
+  padding: 12px;
 }
 
 body {
   display: flex;
   font-family: Arial, sans-serif;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  max-width: 500px;
+}
+
+caption {
+  border: 1px solid black;
 }
