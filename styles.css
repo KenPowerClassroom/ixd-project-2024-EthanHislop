@@ -1,7 +1,14 @@
 .project-info {
-  color: red;
+  color: blue;
+}
+
+.nav {
+  width: 12cm;
+  font-size: 18px;
+  text-align: center;
 }
 
 body {
   display: flex;
+  font-family: Arial, sans-serif;
 }
