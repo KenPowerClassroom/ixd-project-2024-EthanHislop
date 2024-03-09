@@ -17,6 +17,7 @@
 body {
   display: flex;
   font-family: Arial, sans-serif;
+  width: 100%;
 }
 
 table, th, td {
