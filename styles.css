@@ -35,5 +35,21 @@ caption {
 }
 
 #kahoot-progress {
-  background-color: orange;
+  background-color: lightgreen;
+}
+
+#kahoot-experience {
+  background-color: lightgreen;
+}
+
+#typing-engagement {
+  background-color: lightgreen;
+}
+
+#typing-progress {
+  background-color: lightgreen;
+}
+
+#typing-experience {
+  background-color: lightgreen;
 }
