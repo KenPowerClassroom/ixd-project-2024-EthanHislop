@@ -30,26 +30,14 @@ caption {
   border: 1px solid black;
 }
 
-#kahoot-engagement {
+#kahoot-engagement, #kahoot-progress, #kahoot-experience {
   background-color: lightgreen;
 }
 
-#kahoot-progress {
+#typing-engagement, #typing-progress, #typing-experience {
   background-color: lightgreen;
 }
 
-#kahoot-experience {
-  background-color: lightgreen;
-}
-
-#typing-engagement {
-  background-color: lightgreen;
-}
-
-#typing-progress {
-  background-color: lightgreen;
-}
-
-#typing-experience {
+#code-engagement, #code-progress, #code-experience {
   background-color: lightgreen;
 }
