@@ -42,3 +42,7 @@ caption {
 #code-engagement, #code-progress, #code-experience {
   background-color: lightgreen;
 }
+
+#wireframe {
+  width: 1000px;
+}
